@@ -3,10 +3,10 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7.
 
 ## Installation
-`npm install -g json-server`
-`npm install`
-`json-server db.json`
-`npm start`
+`npm install -g json-server`<br/>
+`npm install`<br/>
+`json-server db.json`<br/>
+`npm start`<br/>
 Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Build
